@@ -1,13 +1,17 @@
-### Hey, I'm Arsheya! 😄
+### Hey, I'm Arsheya! 👋 
 
 I'm currently working on an app called Know Your Fruit 🍎 🍌 
 
 #### Here's a summary of my skills: 
 
 Programming languages:         Python, C++, C, C#, Objective-C 👩‍💻 
+
 Mobile app development:        iOS development, Xamarin 📱 
+
 Machine learning technologies: Tensorflow, Keras, GCP (Google Cloud Platform) 🤖 
+
 Data Science Theory:           Natural Language Processing, Convolution Neural Networks, Model training, Data clean-up 📚 
+
 Salesforce.com:                Lightning experience, Apex Development, Packaging and Deployment, Sales/Service org, Communities and User Management 🧠 
 
 
