@@ -4,7 +4,7 @@ I'm currently working on an app called Know Your Fruit 🍎 🍌
 
 #### Here's a summary of my skills: 
 
-- #### Programming languages ####:         Python, C++, C, C#, Objective-C 👩‍💻 
+- *Programming languages: *         Python, C++, C, C#, Objective-C 👩‍💻 
 
 -  #### Mobile Development ####:        iOS development, Xamarin 📱 
 
