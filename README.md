@@ -1,6 +1,5 @@
 ### Hey, I'm Arsheya! 👋 
 
-I'm currently working on an app called Know Your Fruit 🍎 🍌 
 
 #### Here's a summary of my skills: 
 
